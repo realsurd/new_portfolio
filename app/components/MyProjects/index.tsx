@@ -71,11 +71,11 @@ export function MyProjects() {
             />
             </Link>
 
-            <Link href="https://realsurd.github.io/realsurdKrypt/" target='_blank'>   
+            <Link href="https://fortescrow.vercel.app/" target='_blank'>   
           <Card
-              title="Mini CryptoWallet"
-              image="https://res.cloudinary.com/du153mzwk/image/upload/v1727738358/Screenshot_49_njqcbk.png"
-              description="A Web3 dApp website that allows users send transactions through metamask and records the completed transactions."
+              title="Fortescrow"
+              image="https://res.cloudinary.com/du153mzwk/image/upload/v1731290398/Screenshot_58_e9yura.png"
+              description="ForteScrow is an escrow platform which enhances security and trust in online marketplace transactions, providing a reliable solution for buyers and sellers alike.."
             />
             </Link>
 
@@ -105,13 +105,11 @@ export function MyProjects() {
             />
             </Link>
 
-            <Link href="https://realsurd.github.io/pelzclothings/index.html"  target='_blank'>   
+            <Link href="https://realsurd.github.io/realsurdKrypt/"  target='_blank'>   
           <Card
-              title="Clothing Website"
-              image="https://res.cloudinary.com/du153mzwk/image/upload/v1727740048/Screenshot_53_oycsjo.png"
-              description="E-Commerce Website.
-             An e-commerce clothing website where users can come to shop for their clothes, the website has multiple pages and a features page, it is a responsive across all 
-             screen sizes, the wensite was created using HTML, CSS and Javascript."
+              title="Mini CryptoWallet"
+              image="https://res.cloudinary.com/du153mzwk/image/upload/v1727738358/Screenshot_49_njqcbk.png"
+              description="A Web3 dApp website that allows users send transactions through metamask and records the completed transactions."
             />
             </Link>
           
