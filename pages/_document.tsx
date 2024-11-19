@@ -15,7 +15,7 @@ export default function Document() {
         />
         <link
           rel="shortcut icon"
-          href="https://res.cloudinary.com/dlinprg6k/image/upload/v1710183598/Group_5_nlkqfr.png"
+          href="https://res.cloudinary.com/du153mzwk/image/upload/v1731969898/RealSurd_1_b3zrnf.png"
         />
         <link
           rel="apple-touch-icon"

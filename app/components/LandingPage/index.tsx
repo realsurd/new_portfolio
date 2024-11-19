@@ -94,7 +94,7 @@ export function LandingPage() {
           <h1>My Projects</h1>
           </div>
           <div className='grid grid-cols-1 md:grid-cols-3 text-sm grid-rows-2 gap-4'>
-            <Link href="https://www.daowakanda.com/" target='_blank'>   
+            <Link href="https://www.daowakanda.org/" target='_blank'>   
           <Card
               title="DaoWakanda"
               image="https://res.cloudinary.com/du153mzwk/image/upload/v1722037051/Screenshot_34_cfwe2f.png"
